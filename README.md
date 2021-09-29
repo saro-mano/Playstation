@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Getting Started with Backend - Java Spring Boot
+
+It can be found in the folder backend. Open the folder in IntelliJ or any IDE of your choice and run it. 
+
+
+The backend should be running in Port 8080
